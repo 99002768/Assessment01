@@ -16,7 +16,7 @@ public class Student {
 	String dept;
 	int age;
 	
-	@Autowired
+	
 	Address address;
 	
 	
